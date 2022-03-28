@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sapi Limosin &#8211; Kandang Kondang</title>
-	<atom:link href="/category/qurban/sapi/limosin/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/qurban/sapi/limosin/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 19 Jun 2021 09:59:25 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/12/LOGO-KANDANG-KONDANG-1-150x150.png</url>
@@ -29,14 +29,14 @@
 </image> 
 	<item>
 		<title>Jual Sapi Limosin Qurban di Serang Sehat &#038; Murah</title>
-		<link>/sapi-limosin-serang/</link>
+		<link>/sapi-limosin-serang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sat, 19 Jun 2021 09:59:25 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-serang/</guid>
 
-					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-serang/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Serang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-serang"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Serang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut menjadi sehat dan menghasilkan daging yang berkualitas.  </p>
 
@@ -105,10 +105,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Limosin berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Limosin terjamin. Selain menjual Sapi Limosin untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -146,8 +146,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -160,10 +160,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -313,8 +313,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -324,14 +324,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Tangerang Sehat &#038; Murah</title>
-		<link>/sapi-limosin-tangerang/</link>
+		<link>/sapi-limosin-tangerang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sat, 15 May 2021 19:49:40 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-tangerang/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-tangerang/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Tangerang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-tangerang"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Tangerang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="https://id.wikipedia.org/wiki/Sorgum" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut menjadi sehat dan menghasilkan daging yang berkualitas.  </p>
 
@@ -400,10 +400,10 @@
 <p>Sebagai peternak dan penjual Sapi Limosin serta jenis lainnya, komitmen kami adalah untuk selalu menjaga <a href="/cara-memilih-hewan-qurban">kualitas dari hewan ternak</a> yang kami sediakan oleh sebab itu kami selalu memberikan pakan yang bernutrisi, melakukan pemeriksaan dan pengawasan secara optimal yang juga ditangani langsung oleh dokter hewan internal kami agar Sapi Limosin yang kami sediakan selalu dalam kondisi yang sehat. Selain menjual Sapi Limosin untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -441,8 +441,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -455,10 +455,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -608,8 +608,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -619,14 +619,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Pasuruan Sehat &#038; Murah</title>
-		<link>/sapi-limosin-pasuruan/</link>
+		<link>/sapi-limosin-pasuruan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 09 May 2021 18:37:37 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-pasuruan/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-pasuruan/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Pasuruan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-pasuruan"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Pasuruan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://www.hort.purdue.edu/newcrop/afcm/sorghum.html" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang kami ternak sehingga Sapi tersebut terjaga kesehatannya dan bisa menghasilkan daging yang berkualitas tinggi.  </p>
 
@@ -695,10 +695,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Limosin berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Limosin terjamin. Selain menjual Sapi Limosin untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -736,8 +736,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -750,10 +750,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -903,8 +903,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -914,14 +914,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Batang Sehat &#038; Murah</title>
-		<link>/sapi-limosin-batang/</link>
+		<link>/sapi-limosin-batang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 14 Apr 2021 07:34:31 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-batang/</guid>
 
-					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-batang/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Batang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-batang"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Batang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang kami ternak sehingga Sapi tersebut terjaga kesehatannya dan bisa menghasilkan daging yang berkualitas tinggi.  </p>
 
@@ -990,10 +990,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Limosin berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Limosin terjamin. Bukan hanya menjual Sapi Limosin saat momentum hari raya Idul Adha saja, tetapi kandangkondang.id juga siap memenuhi kebutuhan Anda yang lain seperti aqiqah, pembibitan, kebutuhan <a href="https://medan.tribunnews.com/2018/09/16/menurut-penelitian-roy-morgan-ini-10-restoran-yang-paling-diminati-masyarakat-indonesia?page=2" target="_blank" rel="noopener">rumah makan</a> atau restoran, serta Rumah Potong Hewan (RPH).   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1031,8 +1031,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1045,10 +1045,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1198,8 +1198,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1209,14 +1209,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Tangerang Selatan Sehat &#038; Murah</title>
-		<link>/sapi-limosin-tangerang-selatan/</link>
+		<link>/sapi-limosin-tangerang-selatan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 18 Mar 2021 14:23:51 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-tangerang-selatan/</guid>
 
-					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-tangerang-selatan/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Tangerang Selatan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-tangerang-selatan"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Tangerang Selatan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat dan menghasilkan daging Sapi yang berkualitas tinggi.  </p>
 
@@ -1285,10 +1285,10 @@
 <p>Sudah menjadi komitmen besar kami untuk menyediakan Sapi Limosin dengan kualitas terbaik yaitu dengan selalu memberikan pakan bernutrisi, serta selalu mengawasi dan melakukan pemeriksaan optimal setiap hari yang dibantu oleh <a href="https://ourworldindata.org/grapher/physicians-per-1000-people" target="_blank" rel="noopener">dokter</a> hewan internal kami guna memastikan kondisi Sapi Limosin selalu sehat dan normal. Selain menjual Sapi Limosin untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1326,8 +1326,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1340,10 +1340,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1493,8 +1493,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1504,14 +1504,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Sumenep Sehat &#038; Murah</title>
-		<link>/sapi-limosin-sumenep/</link>
+		<link>/sapi-limosin-sumenep</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 12 Mar 2021 00:54:50 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-sumenep/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-sumenep/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Sumenep Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-sumenep"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Sumenep Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://www.sorghumgrowers.com/" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang kami ternak sehingga Sapi tersebut terjaga kesehatannya dan bisa menghasilkan daging yang berkualitas tinggi.  </p>
 
@@ -1580,10 +1580,10 @@
 <p>Sudah menjadi komitmen besar kami untuk menyediakan Sapi Limosin dengan kualitas terbaik yaitu dengan selalu memberikan pakan bernutrisi, serta selalu mengawasi dan melakukan pemeriksaan optimal setiap hari yang dibantu oleh <a href="http://www.gla.ac.uk/schools/medicine/aboutus/history/18thcentury/" target="_blank" rel="noopener">dokter</a> hewan internal kami guna memastikan kondisi Sapi Limosin selalu sehat dan normal. Tidak hanya menyediakan Sapi Limosin untuk berqurban saja, namun kami juga bisa memenuhi kebutuhan Anda untuk <a href="/kambing-aqiqah/">aqiqah</a>, pembibitan, kebutuhan rumah makan atau restoran, serta Rumah Potong Hewan (RPH).   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1621,8 +1621,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1635,10 +1635,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1788,8 +1788,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1799,14 +1799,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Bogor Sehat &#038; Murah</title>
-		<link>/sapi-limosin-bogor/</link>
+		<link>/sapi-limosin-bogor</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 10 Mar 2021 09:56:43 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-bogor/</guid>
 
-					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-bogor/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Bogor Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-bogor"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Bogor Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak kami menjadi makanan yang sehat dan bernutrisi sehingga dapat menghasilkan Sapi dengan kualitas daging yang optimal.  </p>
 
@@ -1875,10 +1875,10 @@
 <p>Sebagai peternak dan penjual Sapi Limosin serta jenis lainnya, komitmen kami adalah untuk selalu menjaga <a href="/cara-memilih-hewan-qurban">kualitas dari hewan ternak</a> yang kami sediakan oleh sebab itu kami selalu memberikan pakan yang bernutrisi, melakukan pemeriksaan dan pengawasan secara optimal yang juga ditangani langsung oleh dokter hewan internal kami agar Sapi Limosin yang kami sediakan selalu dalam kondisi yang sehat. Kandangkondang.id tidak hanya melayani penjualan Sapi Limosin saat momentum Idul Adha saja, tetapi kami juga dapat memenuhi kebutuhan Aqiqah, pembibitan, supplier restorat, Rumah Potong Hewan (RPH), dan lain sebagainya.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1916,8 +1916,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1930,10 +1930,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2083,8 +2083,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2094,14 +2094,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Nganjuk Sehat &#038; Murah</title>
-		<link>/sapi-limosin-nganjuk/</link>
+		<link>/sapi-limosin-nganjuk</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 09 Mar 2021 21:43:28 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-nganjuk/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-nganjuk/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Nganjuk Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-nganjuk"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Nganjuk Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan <a href="http://biology.plosjournals.org/perlserv/?request=get-document&#038;doi=10.1371/journal.pbio.0030013" target="_blank" rel="noopener">lahan pertanian sorgum</a> di Jombang, Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut menjadi sehat dan menghasilkan daging yang berkualitas.  </p>
 
@@ -2170,10 +2170,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Limosin berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Limosin terjamin. Selain menjual Sapi Limosin untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2211,8 +2211,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2225,10 +2225,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2378,8 +2378,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2389,14 +2389,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Cilegon Sehat &#038; Murah</title>
-		<link>/sapi-limosin-cilegon/</link>
+		<link>/sapi-limosin-cilegon</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 09 Mar 2021 04:13:33 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-cilegon/</guid>
 
-					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-cilegon/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Cilegon Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-cilegon"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Cilegon Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan <a href="http://www.itis.usda.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&#038;search_value=42106" target="_blank" rel="noopener">pertanian sorgum</a> di Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat dan menghasilkan daging Sapi yang berkualitas tinggi.  </p>
 
@@ -2465,10 +2465,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Limosin berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Limosin terjamin. Tidak hanya menyediakan Sapi Limosin untuk berqurban saja, namun kami juga bisa memenuhi kebutuhan Anda untuk <a href="/kambing-aqiqah/">aqiqah</a>, pembibitan, kebutuhan rumah makan atau restoran, serta Rumah Potong Hewan (RPH).   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2506,8 +2506,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2520,10 +2520,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2673,8 +2673,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2684,14 +2684,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Limosin Qurban di Trenggalek Sehat &#038; Murah</title>
-		<link>/sapi-limosin-trenggalek/</link>
+		<link>/sapi-limosin-trenggalek</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 04 Mar 2021 19:16:17 +0000</pubDate>
 				<category><![CDATA[Sapi Limosin]]></category>
 		<guid isPermaLink="false">/sapi-limosin-trenggalek/</guid>
 
-					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-trenggalek/"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Trenggalek Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-limosin-trenggalek"> <span class="screen-reader-text">Jual Sapi Limosin Qurban di Trenggalek Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menawarkan hewan ternak yaitu Sapi untuk berqurban yang langsung didapatkan dari peternakan yang sudah terintegrasi dengan lahan pertanian sorgum di Jombang. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak kami menjadi makanan yang sehat dan bernutrisi sehingga dapat menghasilkan Sapi dengan kualitas daging yang optimal.  </p>
 
@@ -2760,10 +2760,10 @@
 <p>Sudah menjadi komitmen besar kami untuk menyediakan Sapi Limosin dengan kualitas terbaik yaitu dengan selalu memberikan pakan bernutrisi, serta selalu mengawasi dan melakukan pemeriksaan optimal setiap hari yang dibantu oleh <a href="https://books.google.com/books?id=3oFKAAAAYAAJ&#038;q=%22licentia+medendi%22salerno&#038;pg=PA83" target="_blank" rel="noopener">dokter</a> hewan internal kami guna memastikan kondisi Sapi Limosin selalu sehat dan normal. Kandangkondang.id juga siap untuk memenuhi kebutuhan aqiqah, pembibitan, kebutuhan rumah makan / <a href="https://id.wikipedia.org/wiki/Rumah_makan" target="_blank" rel="noopener">restoran</a>, dan Rumah Potong Hewan (RPH) karena kami tidak hanya menjual Sapi Limosin ketika Idul Adha saja.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2801,8 +2801,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2815,10 +2815,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2968,8 +2968,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>

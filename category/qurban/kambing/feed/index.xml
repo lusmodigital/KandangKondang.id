@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Kambing &#8211; Kandang Kondang</title>
-	<atom:link href="/category/qurban/kambing/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/qurban/kambing/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 23 Jun 2021 12:11:55 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/12/LOGO-KANDANG-KONDANG-1-150x150.png</url>
@@ -29,14 +29,14 @@
 </image> 
 	<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Pandeglang</title>
-		<link>/kambing-qurban-pandeglang/</link>
+		<link>/kambing-qurban-pandeglang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 20 Apr 2021 21:51:26 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-pandeglang/</guid>
 
-					<description><![CDATA[Anda sudah berada di situs yang tepat bila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Pandeglang dengan kualitas terbaik. Kami menjual hewan Qurban Kambing dan Domba yang didapatkan langsung dari peternak, oleh karena itu kami menawarkan harga yang lebih terjangkau dan murah dengan kualitas yang tidak murahan. Sebentar lagi, hari raya Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-pandeglang/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Pandeglang</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Anda sudah berada di situs yang tepat bila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Pandeglang dengan kualitas terbaik. Kami menjual hewan Qurban Kambing dan Domba yang didapatkan langsung dari peternak, oleh karena itu kami menawarkan harga yang lebih terjangkau dan murah dengan kualitas yang tidak murahan. Sebentar lagi, hari raya Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-pandeglang"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Pandeglang</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Anda sudah berada di situs yang tepat bila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Pandeglang dengan kualitas terbaik. Kami menjual hewan Qurban <a href="https://id.wikipedia.org/wiki/Kambing#:~:text=Kambing%20merupakan%20binatang%20memamah%20biak%20yang%20berukuran%20sedang.&amp;text=Panjang%20tubuh%20kambing%20liar%2C%20tidak,jantan%20bisa%20mencapai%20120%20kilogram." target="_blank" rel="noopener">Kambing</a> dan Domba yang didapatkan langsung dari peternak, oleh karena itu kami menawarkan harga yang lebih terjangkau dan murah dengan kualitas yang tidak murahan. Sebentar lagi, hari raya Idul Adha akan segera tiba, lalu pada hari itu seluruh umat musli, di dunia akan melaksanakan ibadah haji, dan bila belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -134,10 +134,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -210,8 +210,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -227,14 +227,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Jember</title>
-		<link>/kambing-qurban-jember/</link>
+		<link>/kambing-qurban-jember</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 19 Apr 2021 01:18:09 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-jember/</guid>
 
-					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Jember yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-jember/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Jember</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Jember yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-jember"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Jember</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Apabila saat ini Anda sedang mencari dan membutuhkan <a href="/kambing-qurban/
 ">hewan Qurban</a> di Jember yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari raya Idul Adha akan segera tiba, lalu pada hari itu seluruh umat musli, di dunia akan melaksanakan ibadah haji, dan bila belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
@@ -332,10 +332,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -408,8 +408,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -425,14 +425,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Nganjuk</title>
-		<link>/kambing-qurban-nganjuk/</link>
+		<link>/kambing-qurban-nganjuk</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 18 Apr 2021 21:39:58 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-nganjuk/</guid>
 
-					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Nganjuk. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tinggal menghitung waktu, sebentar lagi Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-nganjuk/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Nganjuk</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Nganjuk. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tinggal menghitung waktu, sebentar lagi Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-nganjuk"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Nganjuk</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Nganjuk. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tinggal menghitung waktu, sebentar lagi <a href="http://www.staff.science.uu.nl/~gent0113/islam/ummalqura.htm" target="_blank" rel="noopener">Idul Adha</a> akan segera tiba dan pada hari itu seluruh umat muslim di dunia ini akan melaksanakan ibadah haji dan jika belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -529,10 +529,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -605,8 +605,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -622,14 +622,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Klaten</title>
-		<link>/kambing-qurban-klaten/</link>
+		<link>/kambing-qurban-klaten</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 09 Apr 2021 13:31:13 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-klaten/</guid>
 
-					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Klaten yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-klaten/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Klaten</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Klaten yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-klaten"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Klaten</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Apabila saat ini Anda sedang mencari dan membutuhkan <a href="/kambing-qurban/
 ">hewan Qurban</a> di Klaten yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, sebentar lagi <a href="https://missdramatic.com/2017/11/14/bilal-abbas-khan-iqra-aziz-drama-qurbaan-is-about-controversial-topic-of-forced-second-nikkah/" target="_blank" rel="noopener">Idul Adha</a> akan segera tiba dan pada hari itu seluruh umat muslim di dunia ini akan melaksanakan ibadah haji dan jika belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
@@ -727,10 +727,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -803,8 +803,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -820,14 +820,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Tasikmalaya</title>
-		<link>/kambing-qurban-tasikmalaya/</link>
+		<link>/kambing-qurban-tasikmalaya</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 07 Apr 2021 22:54:51 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-tasikmalaya/</guid>
 
-					<description><![CDATA[Bagi Anda yang berada di Tasikmalaya dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari raya Idul Adha akan &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-tasikmalaya/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Tasikmalaya</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Bagi Anda yang berada di Tasikmalaya dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari raya Idul Adha akan &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-tasikmalaya"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Tasikmalaya</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Bagi Anda yang berada di Tasikmalaya dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menawarkan hewan Qurban seperti Kambing dan Domba yang didapatkan langsung dari peternak, oleh sebab itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Sebentar lagi, hari raya Idul Adha akan segera tiba, lalu pada hari itu seluruh umat musli, di dunia akan melaksanakan ibadah haji, dan bila belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -924,10 +924,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1000,8 +1000,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1018,14 +1018,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Salatiga</title>
-		<link>/kambing-qurban-salatiga/</link>
+		<link>/kambing-qurban-salatiga</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 01 Apr 2021 21:10:37 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-salatiga/</guid>
 
-					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Salatiga. Hewan Qurban yang kami tawarkan yaitu Kambing atau Domba yang didapatkan langsung dari peternak, maka dari itu harga yang kami berikan tentu jauh lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, sebentar &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-salatiga/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Salatiga</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Salatiga. Hewan Qurban yang kami tawarkan yaitu Kambing atau Domba yang didapatkan langsung dari peternak, maka dari itu harga yang kami berikan tentu jauh lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, sebentar &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-salatiga"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Salatiga</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Salatiga. Hewan Qurban yang kami tawarkan yaitu Kambing atau Domba yang didapatkan langsung dari peternak, maka dari itu harga yang kami berikan tentu jauh lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tinggal menghitung waktu, sebentar lagi <a href="https://veryfilmi.com/qurban-ary-digital-cast-promo-ost-timings/" target="_blank" rel="noopener">Idul Adha</a> akan segera tiba dan pada hari itu seluruh umat muslim di dunia ini akan melaksanakan ibadah haji dan jika belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -1122,10 +1122,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1198,8 +1198,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1215,14 +1215,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Karanganyar</title>
-		<link>/kambing-qurban-karanganyar/</link>
+		<link>/kambing-qurban-karanganyar</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 28 Mar 2021 03:45:19 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-karanganyar/</guid>
 
-					<description><![CDATA[Bagi Anda yang berada di Karanganyar dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-karanganyar/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Karanganyar</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Bagi Anda yang berada di Karanganyar dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-karanganyar"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Karanganyar</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Bagi Anda yang berada di Karanganyar dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera tiba, dan seperti yang Anda ketahui bahwa pada hari itu umat muslim di seluruh dunia melaksanakan ibadah haji dan jika belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -1319,10 +1319,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1395,8 +1395,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1412,14 +1412,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Trenggalek</title>
-		<link>/kambing-qurban-trenggalek/</link>
+		<link>/kambing-qurban-trenggalek</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sat, 27 Mar 2021 07:45:08 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-trenggalek/</guid>
 
-					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Trenggalek. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tidak lama lagi, hari raya Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-trenggalek/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Trenggalek</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Trenggalek. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tidak lama lagi, hari raya Idul &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-trenggalek"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Trenggalek</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Anda sudah berada di tempat yang tepat jika saat ini Anda sedang membutuhkan hewan Qurban berkualitas baik di Trenggalek. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Tidak lama lagi, hari raya Idul Adha segera tiba lalu pada hari tersebut umat muslim di dunia akan melaksanakan ibadah haji dan apabila belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -1516,10 +1516,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1592,8 +1592,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1609,14 +1609,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Gresik</title>
-		<link>/kambing-qurban-gresik/</link>
+		<link>/kambing-qurban-gresik</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 25 Mar 2021 03:33:49 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-gresik/</guid>
 
-					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Gresik yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Sebentar lagi, &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-gresik/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Gresik</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Apabila saat ini Anda sedang mencari dan membutuhkan hewan Qurban di Gresik yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Sebentar lagi, &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-gresik"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Gresik</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Apabila saat ini Anda sedang mencari dan membutuhkan <a href="/kambing-qurban/
 ">hewan Qurban</a> di Gresik yang berkualitas baik, maka Anda sudah berada di situs yang tepat. Adapun hewan Qurban yang kami tawarkan yaitu Kambing dan Domba yang didapatkan langsung dari peternak, maka dari itu kami menawarkan harga yang lebih terjangkau dan murah tetapi kualitasnya tidak murahan. Sebentar lagi, hari raya Idul Adha akan segera tiba, lalu pada hari itu seluruh umat musli, di dunia akan melaksanakan ibadah haji, dan bila belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
@@ -1714,10 +1714,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1790,8 +1790,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1807,14 +1807,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Qurban Siap Kirim Madiun</title>
-		<link>/kambing-qurban-madiun/</link>
+		<link>/kambing-qurban-madiun</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 12:05:58 +0000</pubDate>
 				<category><![CDATA[Kambing]]></category>
 		<guid isPermaLink="false">/kambing-qurban-madiun/</guid>
 
-					<description><![CDATA[Bagi Anda yang berada di Madiun dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-madiun/"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Madiun</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Bagi Anda yang berada di Madiun dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera &#8230;<p class="read-more"> <a class="" href="/kambing-qurban-madiun"> <span class="screen-reader-text">Jual Kambing / Domba Qurban Siap Kirim Madiun</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Bagi Anda yang berada di Madiun dan sedang membutuhkan hewan Qurban berkualitas terbaik, Anda sudah mendatangi situs yang tepat. Kami menyediakan hewan Qurban yaitu Kambing atau Domba yang diperoleh langsung dari peternak, oleh karena itu harga yang kami tawarkan lebih terjangkau dan murah namun kualitasnya tentu tidak murahan. Tidak lama lagi, Idul Adha akan segera tiba, dan seperti yang Anda ketahui bahwa pada hari itu umat muslim di seluruh dunia melaksanakan ibadah haji dan jika belum berkesempatan untuk menunaikan ibadah haji, maka disunnahkan untuk melaksanakan ibadah Qurban bagi yang mampu.</p>
 
@@ -1912,10 +1912,10 @@
 <h3>Daftar Kambing Qurban yang Kami Sediakan</h3>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="3772" class="elementor elementor-3772">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4dbaad2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4dbaad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a7ee880" data-id="a7ee880" data-element_type="column">
@@ -1988,8 +1988,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 

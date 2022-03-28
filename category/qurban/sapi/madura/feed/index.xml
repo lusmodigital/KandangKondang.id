@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sapi Madura &#8211; Kandang Kondang</title>
-	<atom:link href="/category/qurban/sapi/madura/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/qurban/sapi/madura/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 18 Jun 2021 03:07:45 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/12/LOGO-KANDANG-KONDANG-1-150x150.png</url>
@@ -29,14 +29,14 @@
 </image> 
 	<item>
 		<title>Jual Sapi Madura Qurban di Banyumas Sehat &#038; Murah</title>
-		<link>/sapi-madura-banyumas/</link>
+		<link>/sapi-madura-banyumas</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 18 Jun 2021 03:07:45 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-banyumas/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-madura-banyumas/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Banyumas Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-madura-banyumas"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Banyumas Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://www.grains.org/page.ww?section=Barley%2C+Corn+%26+Sorghum&#038;name=Sorghum" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut menjadi sehat dan menghasilkan daging yang berkualitas.  </p>
 
@@ -105,10 +105,10 @@
 <p>Sudah menjadi komitmen besar kami untuk menyediakan Sapi Madura dengan kualitas terbaik yaitu dengan selalu memberikan pakan bernutrisi, serta selalu mengawasi dan melakukan pemeriksaan optimal setiap hari yang dibantu oleh <a href="https://ourworldindata.org/grapher/physicians-per-1000-people" target="_blank" rel="noopener">dokter</a> hewan internal kami guna memastikan kondisi Sapi Madura selalu sehat dan normal. Tidak hanya menyediakan Sapi Madura untuk berqurban saja, namun kami juga bisa memenuhi kebutuhan Anda untuk <a href="/kambing-aqiqah/">aqiqah</a>, pembibitan, kebutuhan rumah makan atau restoran, serta Rumah Potong Hewan (RPH).   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -146,8 +146,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -160,10 +160,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -313,8 +313,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -324,14 +324,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Karawang Sehat &#038; Murah</title>
-		<link>/sapi-madura-karawang/</link>
+		<link>/sapi-madura-karawang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 07:09:56 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-karawang/</guid>
 
-					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-karawang/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Karawang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-karawang"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Karawang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan <a href="https://www.budidayatani.com/potensi-sorghum-sebagai-pangan.html" target="_blank" rel="noopener">pertanian sorgum</a> di Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan ternak kami sehingga Sapi tersebut bisa menghasilkan daging yang berkualitas dan sehat.</p>
 
@@ -421,10 +421,10 @@
 <p>Beberapa upaya yang kami lakukan untuk menjaga komitmen kami dalam memnjual Sapi Madura berkualitas tinggi adalah dengan selalu memberikan makanan yang bernutrisi untuk dikonsumsi dan melakukan pemeriksaan serta pengawasan secara optimal yang dilakukan setiap hari oleh <a href="https://books.google.com/books?id=3oFKAAAAYAAJ&amp;q=%22licentia+medendi%22salerno&amp;pg=PA83" target="_blank" rel="noopener">dokter</a> hewan internal kami untuk memastikan bahwa kondisi Sapi Madura selalu sehat dan normal. Kandangkondang.id juga siap untuk memenuhi kebutuhan aqiqah, pembibitan, kebutuhan rumah makan / <a href="http://restaurantsederhanabintaro.blogspot.com/" target="_blank" rel="noopener">restoran</a>, dan Rumah Potong Hewan (RPH) karena kami tidak hanya menjual Sapi Madura ketika Idul Adha saja.</p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -462,8 +462,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -476,10 +476,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -629,8 +629,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -640,14 +640,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Boyolali Sehat &#038; Murah</title>
-		<link>/sapi-madura-boyolali/</link>
+		<link>/sapi-madura-boyolali</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 07 Jun 2021 07:40:36 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-boyolali/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-boyolali/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Boyolali Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-boyolali"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Boyolali Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan <a href="http://www.sorghumgrowers.com/" target="_blank" rel="noopener">lahan pertanian sorgum</a> di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak kami menjadi makanan yang sehat dan bernutrisi sehingga dapat menghasilkan Sapi dengan kualitas daging yang optimal.  </p>
 
@@ -716,10 +716,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Madura berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Madura terjamin. Kandangkondang.id juga siap untuk memenuhi kebutuhan aqiqah, pembibitan, kebutuhan rumah makan / <a href="http://www.ciputraentrepreneurship.com/makanan/kisah-h-bustaman-kembangkan-rm-padang-sederhana" target="_blank" rel="noopener">restoran</a>, dan Rumah Potong Hewan (RPH) karena kami tidak hanya menjual Sapi Madura ketika Idul Adha saja.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -757,8 +757,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -771,10 +771,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -924,8 +924,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -935,14 +935,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Depok Sehat &#038; Murah</title>
-		<link>/sapi-madura-depok/</link>
+		<link>/sapi-madura-depok</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 02 Jun 2021 11:28:00 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-depok/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-madura-depok/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Depok Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-madura-depok"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Depok Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="https://www.budidayatani.com/potensi-sorghum-sebagai-pangan.html" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat dan menghasilkan daging Sapi yang berkualitas tinggi.  </p>
 
@@ -1011,10 +1011,10 @@
 <p>Kandangkondang.id akan terus menjaga komitmen kami yaitu selalu menjual Sapi Madura maupun jenis lainnya dengan kualitas terbaik dan salah satu upaya kami adalah dengan memberikan pakan yang bernutrisi, lalu melakukan pengawasan dan pemeriksaan secara optimal setiap harinya yang dibantu oleh dokter hewan internal kami untuk memastikan bahwa kondisi Sapi Madura dalam keadaan yang sehat dan normal. Selain menjual Sapi Madura untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1052,8 +1052,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1066,10 +1066,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1219,8 +1219,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1230,14 +1230,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Grobogan Sehat &#038; Murah</title>
-		<link>/sapi-madura-grobogan/</link>
+		<link>/sapi-madura-grobogan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 27 May 2021 03:28:15 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-grobogan/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-madura-grobogan/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Grobogan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-madura-grobogan"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Grobogan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan <a href="http://www.fao.org/inpho/content/compend/toc_main.htm#TopOfPage" target="_blank" rel="noopener">lahan pertanian sorgum</a> di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan ternak kami sehingga Sapi tersebut bisa menghasilkan daging yang berkualitas dan sehat.</p>
 
@@ -1327,10 +1327,10 @@
 <p>Beberapa upaya yang kami lakukan untuk menjaga komitmen kami dalam memnjual Sapi Madura berkualitas tinggi adalah dengan selalu memberikan makanan yang bernutrisi untuk dikonsumsi dan melakukan pemeriksaan serta pengawasan secara optimal yang dilakukan setiap hari oleh <a href="https://books.google.com/books?id=ZH-iOIWEVVEC&amp;q=%22licentia+medendi%22salerno&amp;pg=PA430" target="_blank" rel="noopener">dokter</a> hewan internal kami untuk memastikan bahwa kondisi Sapi Madura selalu sehat dan normal. Kandangkondang.id tidak hanya melayani penjualan Sapi Madura saat momentum Idul Adha saja, tetapi kami juga dapat memenuhi kebutuhan Aqiqah, pembibitan, supplier restorat, Rumah Potong Hewan (RPH), dan lain sebagainya.</p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1368,8 +1368,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1382,10 +1382,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1535,8 +1535,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1546,14 +1546,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Brebes Sehat &#038; Murah</title>
-		<link>/sapi-madura-brebes/</link>
+		<link>/sapi-madura-brebes</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 26 May 2021 01:01:20 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-brebes/</guid>
 
-					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-madura-brebes/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Brebes Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut &#8230;<p class="read-more"> <a class="" href="/sapi-madura-brebes"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Brebes Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak atau Sapi tersebut menjadi sehat dan menghasilkan daging yang berkualitas.  </p>
 
@@ -1622,10 +1622,10 @@
 <p>Beberapa upaya yang kami lakukan untuk menjaga komitmen kami dalam memnjual Sapi Madura berkualitas tinggi adalah dengan selalu memberikan makanan yang bernutrisi untuk dikonsumsi dan melakukan pemeriksaan serta pengawasan secara optimal yang dilakukan setiap hari oleh <a href="http://www.gla.ac.uk/schools/medicine/aboutus/history/18thcentury/" target="_blank" rel="noopener">dokter</a> hewan internal kami untuk memastikan bahwa kondisi Sapi Madura selalu sehat dan normal. Selain menjual Sapi Madura untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1663,8 +1663,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1677,10 +1677,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -1830,8 +1830,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -1841,14 +1841,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Indramayu Sehat &#038; Murah</title>
-		<link>/sapi-madura-indramayu/</link>
+		<link>/sapi-madura-indramayu</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 01:33:59 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-indramayu/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-indramayu/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Indramayu Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-indramayu"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Indramayu Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://www.fao.org/inpho/content/compend/toc_main.htm#TopOfPage" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan ternak kami sehingga Sapi tersebut bisa menghasilkan daging yang berkualitas dan sehat.</p>
 
@@ -1938,10 +1938,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Madura berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Madura terjamin. Selain menjual Sapi Madura untuk qurban, kami juga menyediakan hewan ternak untuk memenuhi kebutuhan Aqiqah, pembibitan, kebutuhan restoran, Rumah Potong Hewan (RPH), dan masih banyak lagi.</p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1979,8 +1979,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1993,10 +1993,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2146,8 +2146,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2157,14 +2157,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Bangkalan Sehat &#038; Murah</title>
-		<link>/sapi-madura-bangkalan/</link>
+		<link>/sapi-madura-bangkalan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 18 May 2021 04:38:46 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-bangkalan/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-bangkalan/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Bangkalan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-bangkalan"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Bangkalan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan <a href="http://amarillo.tamu.edu/programs/irrigtce/publications/Grain%20Sorghum%20Irrigation%20B-6152.pdf" target="_blank" rel="noopener">lahan pertanian sorgum</a> di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak kami menjadi makanan yang sehat dan bernutrisi sehingga dapat menghasilkan Sapi dengan kualitas daging yang optimal.  </p>
 
@@ -2233,10 +2233,10 @@
 <p>Beberapa upaya yang kami lakukan untuk menjaga komitmen kami dalam memnjual Sapi Madura berkualitas tinggi adalah dengan selalu memberikan makanan yang bernutrisi untuk dikonsumsi dan melakukan pemeriksaan serta pengawasan secara optimal yang dilakukan setiap hari oleh <a href="http://www.gla.ac.uk/schools/medicine/aboutus/history/18thcentury/" target="_blank" rel="noopener">dokter</a> hewan internal kami untuk memastikan bahwa kondisi Sapi Madura selalu sehat dan normal. Kandangkondang.id tidak hanya melayani penjualan Sapi Madura saat momentum Idul Adha saja, tetapi kami juga dapat memenuhi kebutuhan Aqiqah, pembibitan, supplier restorat, Rumah Potong Hewan (RPH), dan lain sebagainya.   </p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2274,8 +2274,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2288,10 +2288,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2441,8 +2441,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2452,14 +2452,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Kendal Sehat &#038; Murah</title>
-		<link>/sapi-madura-kendal/</link>
+		<link>/sapi-madura-kendal</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 03 May 2021 07:01:36 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-kendal/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-madura-kendal/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Kendal Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-madura-kendal"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Kendal Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371/journal.pbio.0030013" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak kami menjadi makanan yang sehat dan bernutrisi sehingga dapat menghasilkan Sapi dengan kualitas daging yang optimal.</p>
 
@@ -2549,10 +2549,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Madura berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Madura terjamin. Kandangkondang.id juga siap untuk memenuhi kebutuhan aqiqah, pembibitan, kebutuhan rumah makan / <a href="https://medan.tribunnews.com/2018/09/16/menurut-penelitian-roy-morgan-ini-10-restoran-yang-paling-diminati-masyarakat-indonesia?page=2" target="_blank" rel="noopener">restoran</a>, dan Rumah Potong Hewan (RPH) karena kami tidak hanya menjual Sapi Madura ketika Idul Adha saja.</p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2590,8 +2590,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2604,10 +2604,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -2757,8 +2757,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>
@@ -2768,14 +2768,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Madura Qurban di Jakarta Utara Sehat &#038; Murah</title>
-		<link>/sapi-madura-jakarta-utara/</link>
+		<link>/sapi-madura-jakarta-utara</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 30 Apr 2021 02:44:43 +0000</pubDate>
 				<category><![CDATA[Sapi Madura]]></category>
 		<guid isPermaLink="false">/sapi-madura-jakarta-utara/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-jakarta-utara/"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Jakarta Utara Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan &#8230;<p class="read-more"> <a class="" href="/sapi-madura-jakarta-utara"> <span class="screen-reader-text">Jual Sapi Madura Qurban di Jakarta Utara Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian <a href="http://www.itis.usda.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=42106" target="_blank" rel="noopener">sorgum</a> di Jombang Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami berikan kepada hewan ternak kami sehingga Sapi tersebut bisa menghasilkan daging yang berkualitas dan sehat.</p>
 
@@ -2865,10 +2865,10 @@
 <p>Salah satu komitmen besar yang tetap kami jaga adalah selalu menyediakan Sapi Madura berkualitas tinggi, untuk itu kami selalu memperhatikan dan memberikan makanan yang bernutrisi, mengawasi, serta melakukan pemeriksaan optimal setiap harinya yang langsung ditangani oleh dokter hewan internal kami, supaya kondisi kesehatan dari Sapi Madura terjamin. Kandangkondang.id tidak hanya melayani penjualan Sapi Madura saat momentum Idul Adha saja, tetapi kami juga dapat memenuhi kebutuhan Aqiqah, pembibitan, supplier restorat, Rumah Potong Hewan (RPH), dan lain sebagainya.</p>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -2906,8 +2906,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -2920,10 +2920,10 @@
 <h4><strong>Butuh Jenis Sapi Lainnya?</strong></h4>
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4615" class="elementor elementor-4615">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4209eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4209eb4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ec770f" data-id="1ec770f" data-element_type="column">
@@ -3073,8 +3073,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 ]]></content:encoded>

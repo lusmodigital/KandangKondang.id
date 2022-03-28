@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Cara Memilih Hewan Qurban: Alasan Pilih KandangKondang.id	</title>
-	<atom:link href="/cara-memilih-hewan-qurban/feed/" rel="self" type="application/rss+xml" />
-	<link>/cara-memilih-hewan-qurban/</link>
+	<atom:link href="/cara-memilih-hewan-qurban/feed" rel="self" type="application/rss+xml" />
+	<link>/cara-memilih-hewan-qurban</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 24 Jun 2021 09:16:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>

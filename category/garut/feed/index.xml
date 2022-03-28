@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Garut &#8211; Kandang Kondang</title>
-	<atom:link href="/category/garut/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/garut/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 13 Jan 2021 01:30:06 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/12/LOGO-KANDANG-KONDANG-1-150x150.png</url>
@@ -29,14 +29,14 @@
 </image> 
 	<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Sampang Jatim</title>
-		<link>/kambing-domba-garut-sampang/</link>
+		<link>/kambing-domba-garut-sampang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 22 Dec 2020 06:37:41 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-sampang/</guid>
 
-					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Sampang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Kambing / domba ternak di Indonesia sendiri ada banyak jenisnya dan khusus untuk Anda yang berada di Sampang kami menawarkan jenis &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-sampang/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Sampang Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Sampang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Kambing / domba ternak di Indonesia sendiri ada banyak jenisnya dan khusus untuk Anda yang berada di Sampang kami menawarkan jenis &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-sampang"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Sampang Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Sampang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban.  Kambing / domba ternak di Indonesia sendiri ada banyak jenisnya dan khusus untuk Anda yang berada di Sampang kami menawarkan jenis kambing gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.   </p>
 
@@ -135,14 +135,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Tulungagung Jatim</title>
-		<link>/kambing-domba-garut-tulungagung/</link>
+		<link>/kambing-domba-garut-tulungagung</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 11 Dec 2020 00:10:17 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-tulungagung/</guid>
 
-					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi bila Tulungagung sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang sedang di Tulungagung kami &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-tulungagung/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Tulungagung Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi bila Tulungagung sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang sedang di Tulungagung kami &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-tulungagung"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Tulungagung Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi bila Tulungagung sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang sedang di Tulungagung kami menawarkan kambing gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.    </p>
 
@@ -241,14 +241,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Batu Jatim</title>
-		<link>/kambing-domba-garut-batu/</link>
+		<link>/kambing-domba-garut-batu</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 08 Dec 2020 20:11:56 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-batu/</guid>
 
-					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Belum lagi bila Batu telah memasuki musim lebaran Idul Adha, kambing / domba akan dibutuhkan sebagai hewan qurban. Khusus untuk Anda yang berada di Batu, kami menawarkan beberapa jenis kambing &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-batu/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Batu Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Belum lagi bila Batu telah memasuki musim lebaran Idul Adha, kambing / domba akan dibutuhkan sebagai hewan qurban. Khusus untuk Anda yang berada di Batu, kami menawarkan beberapa jenis kambing &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-batu"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Batu Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Belum lagi bila Batu telah memasuki musim lebaran Idul Adha, kambing / domba akan dibutuhkan sebagai hewan qurban. Khusus untuk Anda yang berada di Batu, kami menawarkan beberapa jenis kambing diantaranya adalah jenis gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.   </p>
 
@@ -347,14 +347,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Wonosobo Jateng</title>
-		<link>/kambing-domba-garut-wonosobo/</link>
+		<link>/kambing-domba-garut-wonosobo</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 25 Nov 2020 01:49:45 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-wonosobo/</guid>
 
-					<description><![CDATA[Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda berternak dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Wonosobo sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-wonosobo/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Wonosobo Jateng</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda berternak dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Wonosobo sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-wonosobo"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Wonosobo Jateng</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda <a href="https://books.google.com/books?id=D6v-Tdhm5SgC&#038;pg=PA5" target="_blank" rel="noopener">berternak</a> dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Wonosobo sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Wonosobo kami menawarkan beberapa jenis kambing seperti gibas, etawa, randu, kacang, jawa randu, dan masing banyak lagi.   </p>
 
@@ -453,14 +453,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Majalengka Jabar</title>
-		<link>/kambing-domba-garut-majalengka/</link>
+		<link>/kambing-domba-garut-majalengka</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 16 Nov 2020 05:59:57 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-majalengka/</guid>
 
-					<description><![CDATA[Bukan hal asing lagi bahwa kambing / domba bisa dijadikan hewan peliharaan yang menguntungkan bila Anda dapat berternak dengan benar, baik itu dalam skala kecil bahkan skala besar. Apalagi jika Majalengka sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Khusus untuk Anda yang berada di Majalengka, kami menawarkan beberapa jenis kambing diantaranya adalah &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-majalengka/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Majalengka Jabar</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Bukan hal asing lagi bahwa kambing / domba bisa dijadikan hewan peliharaan yang menguntungkan bila Anda dapat berternak dengan benar, baik itu dalam skala kecil bahkan skala besar. Apalagi jika Majalengka sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Khusus untuk Anda yang berada di Majalengka, kami menawarkan beberapa jenis kambing diantaranya adalah &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-majalengka"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Majalengka Jabar</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Bukan hal asing lagi bahwa kambing / domba bisa dijadikan hewan peliharaan yang menguntungkan bila Anda dapat berternak dengan benar, baik itu dalam skala kecil bahkan skala besar. Apalagi jika Majalengka sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban.  Khusus untuk Anda yang berada di Majalengka, kami menawarkan beberapa jenis kambing diantaranya adalah jenis gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.   </p>
 
@@ -559,14 +559,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Malang Jatim</title>
-		<link>/kambing-domba-garut-malang/</link>
+		<link>/kambing-domba-garut-malang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 15 Nov 2020 10:07:32 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-malang/</guid>
 
-					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi jika Malang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Malang &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-malang/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Malang Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi jika Malang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Malang &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-malang"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Malang Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi jika Malang sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban.  Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Malang kami menawarkan beberapa jenis kambing seperti gibas, etawa, randu, kacang, jawa randu, dan masing banyak lagi.   </p>
 
@@ -665,14 +665,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Jakarta Barat</title>
-		<link>/kambing-domba-garut-jakarta-barat/</link>
+		<link>/kambing-domba-garut-jakarta-barat</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 25 Oct 2020 21:17:23 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-jakarta-barat/</guid>
 
-					<description><![CDATA[Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda berternak dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Jakarta Barat sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Banyak jenis kambing / domba ternak di Indonesia, dan kami menawarkan &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-jakarta-barat/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Jakarta Barat</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda berternak dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Jakarta Barat sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Banyak jenis kambing / domba ternak di Indonesia, dan kami menawarkan &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-jakarta-barat"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Jakarta Barat</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Pada dasarnya kambing / domba merupakan hewan ternak yang cukup menguntungkan apabila Anda <a href="https://books.google.com/books?id=D6v-Tdhm5SgC&#038;pg=PA5" target="_blank" rel="noopener">berternak</a> dengan teknik atau metode yang benar, baik itu skala kecil maupun besar. Apalagi bila Jakarta Barat sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Banyak jenis kambing / domba ternak di Indonesia, dan kami menawarkan khusus untuk Anda yang sedang berada di Jakarta Barat berupa kambing berjenis gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.   </p>
 
@@ -771,14 +771,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Nganjuk Jatim</title>
-		<link>/kambing-domba-garut-nganjuk/</link>
+		<link>/kambing-domba-garut-nganjuk</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 09 Oct 2020 22:22:26 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-nganjuk/</guid>
 
-					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi bila Nganjuk sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-nganjuk/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Nganjuk Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi bila Nganjuk sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-nganjuk"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Nganjuk Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba dapat dijadikan hewan ternak yang cukup menguntungkan jika Anda berternak dengan teknik yang benar, baik itu dalam skala kecil hingga skala besar. Apalagi bila Nganjuk sudah memasuki bulan &#8211; bulan lebaran seperti Idul Adha, tentu akan membutuhkan hewan qurban. Jenis kambing / domba ternak di Indonesia cukup banyak, khusus untuk Anda yang sedang di Nganjuk kami menawarkan kambing gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.    </p>
 
@@ -877,14 +877,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Sumenep Jatim</title>
-		<link>/kambing-domba-garut-sumenep/</link>
+		<link>/kambing-domba-garut-sumenep</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2020 23:00:15 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-sumenep/</guid>
 
-					<description><![CDATA[Kambing / domba menjadi hewan ternak yang cukup menguntungkan bila anda bisa berternak dengan benar dalam skala kecil &#8211; besar. Apalagi jika Sumenep sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Khusus untuk Anda yang berada di Sumenep, kami menawarkan beberapa jenis kambing diantaranya adalah jenis gibas, etawa, randu, kacang, jawa randu, dan &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-sumenep/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Sumenep Jatim</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba menjadi hewan ternak yang cukup menguntungkan bila anda bisa berternak dengan benar dalam skala kecil &#8211; besar. Apalagi jika Sumenep sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Khusus untuk Anda yang berada di Sumenep, kami menawarkan beberapa jenis kambing diantaranya adalah jenis gibas, etawa, randu, kacang, jawa randu, dan &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-sumenep"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Sumenep Jatim</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba menjadi hewan ternak yang cukup menguntungkan bila anda bisa <a href="https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-1-84971-420-4" target="_blank" rel="noopener">berternak</a> dengan benar dalam skala kecil &#8211; besar.  Apalagi jika Sumenep sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban.  Khusus untuk Anda yang berada di Sumenep, kami menawarkan beberapa jenis kambing diantaranya adalah jenis gibas, etawa, randu, kacang, jawa randu, dan masih banyak lagi.   </p>
 
@@ -983,14 +983,14 @@
 			</item>
 		<item>
 		<title>Jual Kambing / Domba Garut Siap Kirim ke Cianjur Jabar</title>
-		<link>/kambing-domba-garut-cianjur/</link>
+		<link>/kambing-domba-garut-cianjur</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 10 Sep 2020 22:34:54 +0000</pubDate>
 				<category><![CDATA[Garut]]></category>
 		<guid isPermaLink="false">/kambing-domba-garut-cianjur/</guid>
 
-					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Cianjur sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Cianjur kami menawarkan beberapa jenis &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-cianjur/"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Cianjur Jabar</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Cianjur sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban. Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Cianjur kami menawarkan beberapa jenis &#8230;<p class="read-more"> <a class="" href="/kambing-domba-garut-cianjur"> <span class="screen-reader-text">Jual Kambing / Domba Garut Siap Kirim ke Cianjur Jabar</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Kambing / domba bisa menjadi hewan yang cukup menjanjikan bila Anda berternak dengan benar baik dalam skala kecil maupun skala besar. Apalagi jika Cianjur sudah memasuki Hari Raya Idul Adha, dan membutuhkan hewan qurban.  Di Indonesia sendiri, kambing / domba memiliki banyak sekali jenism, dan untuk Anda yang berada di Cianjur kami menawarkan beberapa jenis kambing seperti gibas, etawa, randu, kacang, jawa randu, dan masing banyak lagi.   </p>
 

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sapi PO (Sumba Ongole) &#8211; Kandang Kondang</title>
-	<atom:link href="/category/qurban/sapi/po/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/qurban/sapi/po/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 24 Jun 2021 21:08:12 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/12/LOGO-KANDANG-KONDANG-1-150x150.png</url>
@@ -29,14 +29,14 @@
 </image> 
 	<item>
 		<title>Jual Sapi Qurban PO di Bojonegoro Sehat &#038; Murah</title>
-		<link>/sapi-po-bojonegoro/</link>
+		<link>/sapi-po-bojonegoro</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 24 Jun 2021 21:08:12 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-bojonegoro/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-po-bojonegoro/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Bojonegoro Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-po-bojonegoro"> <span class="screen-reader-text">Jual Sapi Qurban PO di Bojonegoro Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -114,10 +114,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -155,8 +155,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -171,14 +171,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Tegal Sehat &#038; Murah</title>
-		<link>/sapi-po-tegal/</link>
+		<link>/sapi-po-tegal</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Tue, 22 Jun 2021 14:51:52 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-tegal/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-po-tegal/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Tegal Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan &#8230;<p class="read-more"> <a class="" href="/sapi-po-tegal"> <span class="screen-reader-text">Jual Sapi Qurban PO di Tegal Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -256,10 +256,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -297,8 +297,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -313,14 +313,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Rembang Sehat &#038; Murah</title>
-		<link>/sapi-po-rembang/</link>
+		<link>/sapi-po-rembang</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 21 Jun 2021 00:04:23 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-rembang/</guid>
 
-					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-po-rembang/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Rembang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id menyediakan hewan untuk qurban yaitu Sapi yang diperoleh langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jombang Jawa Timur. Pengelolaan secara profesional juga dilakuakan pada pertanian sorgum tersebut guna bisa mendapatkan hijauan yang baik dan sehat untuk makanan ternak, setelah itu kami akan memformulasikan sedemikian rupa pakan yang akan dikonsumsi hewan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-po-rembang"> <span class="screen-reader-text">Jual Sapi Qurban PO di Rembang Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -398,10 +398,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -439,8 +439,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -455,14 +455,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Lebak Sehat &#038; Murah</title>
-		<link>/sapi-po-lebak/</link>
+		<link>/sapi-po-lebak</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sat, 22 May 2021 00:42:37 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-lebak/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-po-lebak/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Lebak Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-po-lebak"> <span class="screen-reader-text">Jual Sapi Qurban PO di Lebak Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -540,10 +540,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -581,8 +581,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -597,14 +597,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Lamongan Sehat &#038; Murah</title>
-		<link>/sapi-po-lamongan/</link>
+		<link>/sapi-po-lamongan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 10 May 2021 15:03:25 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-lamongan/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-po-lamongan/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Lamongan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan yang kami &#8230;<p class="read-more"> <a class="" href="/sapi-po-lamongan"> <span class="screen-reader-text">Jual Sapi Qurban PO di Lamongan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -682,10 +682,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -723,8 +723,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -739,14 +739,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Tangerang Selatan Sehat &#038; Murah</title>
-		<link>/sapi-po-tangerang-selatan/</link>
+		<link>/sapi-po-tangerang-selatan</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Sun, 02 May 2021 17:40:17 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-tangerang-selatan/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik &#8230;<p class="read-more"> <a class="" href="/sapi-po-tangerang-selatan/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Tangerang Selatan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik &#8230;<p class="read-more"> <a class="" href="/sapi-po-tangerang-selatan"> <span class="screen-reader-text">Jual Sapi Qurban PO di Tangerang Selatan Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -824,10 +824,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -865,8 +865,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -881,14 +881,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Jember Sehat &#038; Murah</title>
-		<link>/sapi-po-jember/</link>
+		<link>/sapi-po-jember</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Fri, 16 Apr 2021 10:58:16 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-jember/</guid>
 
-					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-po-jember/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Jember Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hewan ternak Sapi qurban yang kami sediakan merupakan Sapi yang langsung didapatkan dari peternakan yang telah terintegrasi dengan lahan pertanian sorgum di Jombang, Jawa Timur. Pertanian Sorgum tersebut juga dikelola secara professional sehingga dapat menghasilkan hijauan yang sehat dan baik untuk makanan ternak, kemudian kami juga memformulasikan sedemikian rupa pakan yang diberikan guna menjadikan ternak &#8230;<p class="read-more"> <a class="" href="/sapi-po-jember"> <span class="screen-reader-text">Jual Sapi Qurban PO di Jember Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -966,10 +966,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1007,8 +1007,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1023,14 +1023,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Surabaya Sehat &#038; Murah</title>
-		<link>/sapi-po-surabaya/</link>
+		<link>/sapi-po-surabaya</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Thu, 15 Apr 2021 14:47:58 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-surabaya/</guid>
 
-					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-po-surabaya/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Surabaya Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pengelolaan pertanian sorgum tersebut juga dilakukan secara profesional dengan tujuan menghasilkan hijauan yang sehat dan baik untuk digunakan sebagai pakan ternak, selain itu kami juga memformulasikan pakan ternak menjadi pakan ternak yang sehat &#8230;<p class="read-more"> <a class="" href="/sapi-po-surabaya"> <span class="screen-reader-text">Jual Sapi Qurban PO di Surabaya Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -1108,10 +1108,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1149,8 +1149,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1165,14 +1165,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Brebes Sehat &#038; Murah</title>
-		<link>/sapi-po-brebes/</link>
+		<link>/sapi-po-brebes</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Wed, 14 Apr 2021 08:18:33 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-brebes/</guid>
 
-					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-po-brebes/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Brebes Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondag.id merupakan penyedia hewan qurban termasuk Sapi yang langsung didapatkan dari peternakan di Jombang yaitu peternakan yang terintegrasi dengan lahan pertanian sorgum. Pertanian sorgum juga dikelola secara profesional guna dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak, kemudian kami juga melakukan formulasi secara khusus untuk dapat memberikan pakan terbaik untuk Sapi yang &#8230;<p class="read-more"> <a class="" href="/sapi-po-brebes"> <span class="screen-reader-text">Jual Sapi Qurban PO di Brebes Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -1250,10 +1250,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1291,8 +1291,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 
@@ -1307,14 +1307,14 @@
 			</item>
 		<item>
 		<title>Jual Sapi Qurban PO di Ponorogo Sehat &#038; Murah</title>
-		<link>/sapi-po-ponorogo/</link>
+		<link>/sapi-po-ponorogo</link>
 		
 		<dc:creator><![CDATA[syamsul alam]]></dc:creator>
 		<pubDate>Mon, 12 Apr 2021 08:17:53 +0000</pubDate>
 				<category><![CDATA[Sapi PO (Sumba Ongole)]]></category>
 		<guid isPermaLink="false">/sapi-po-ponorogo/</guid>
 
-					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan &#8230;<p class="read-more"> <a class="" href="/sapi-po-ponorogo/"> <span class="screen-reader-text">Jual Sapi Qurban PO di Ponorogo Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Kandangkondang.id melayani penjualan hewan ternak Sapi untuk berqurban di mana Sapi yang kami sediakan didapatkan langsung dari peternakan yang terintegrasi dengan lahan pertanian sorgum di Jawa Timur. Pertanian Sorgum tersebut dapat menghasilkan hijauan yang lebih sehat dan baik untuk makanan ternak karena pengelolaannya dilakukan secara profesional dan kemudian kami juga berikan formulasi tambahan untuk pakan &#8230;<p class="read-more"> <a class="" href="/sapi-po-ponorogo"> <span class="screen-reader-text">Jual Sapi Qurban PO di Ponorogo Sehat &#038; Murah</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -1392,10 +1392,10 @@
 
 
 
-		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618" data-elementor-settings="[]">
+		<div data-elementor-type="wp-post" data-elementor-id="4618" class="elementor elementor-4618">
 						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-163a38d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="163a38d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64c48e3" data-id="64c48e3" data-element_type="column">
@@ -1433,8 +1433,8 @@
 								</div>
 					</div>
 		</section>
-						</div>
-						</div>
+									</div>
+			</div>
 					</div>
 		
 

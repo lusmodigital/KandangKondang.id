@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Kandang Kondang	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 30 Dec 2020 02:43:33 +0000</lastBuildDate>
@@ -16,11 +16,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		Comment on Default Kit by A WordPress Commenter		</title>
-		<link>/?elementor_library=default-kit/#comment-1</link>
+		<link>/?elementor_library=default-kit#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 30 Dec 2020 02:43:33 +0000</pubDate>
